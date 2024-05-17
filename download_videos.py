@@ -67,6 +67,7 @@ def get_title_and_urls(cookies, home_dir, course_url):
     return load_title_and_urls_from_csv(filename)
 
 
+#TODO use the thinkific SDK
 def course_from_json(json, cookies, lesson_url):
     contents = dict()
     modules = []
