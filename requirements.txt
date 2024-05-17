@@ -1,0 +1,3 @@
+requests==2.31.0
+beautifulsoup4==4.11.1
+pycookiecheat==0.6.0
